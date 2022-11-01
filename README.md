@@ -34,7 +34,7 @@ This Project is made Using Python Tkinter for, We have created a simple portal o
 | :-------- | :------------------------- |
 | **Shubham More** | `moreshubham@kccemsr.edu.in ` |
 | **Omkar Mandavkar** | `mandavkaromkar@kccemsr.edu.in ` |
-| **Durgesh Kolhe** | `kolhedurgesh@kccemsr.edu.in ` |
+| **Akram Kunda** | kundaakram@kccemsr.edu.in` |
 | **Sameer Metkar** | `metkarsameer@kccemsr.edu.in ` |
 
 
